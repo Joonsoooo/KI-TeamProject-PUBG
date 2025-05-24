@@ -1,4 +1,5 @@
 ## Project.PUBG
+![Image](https://github.com/user-attachments/assets/a40a8ce6-2a34-4da2-bd06-47142abb84b3)
 
 > **배틀그라운드 모작 팀 프로젝트**  
 > **개발 기간**: 2025년 1월 13일 ~ 3월 7일 (약 8주)  
